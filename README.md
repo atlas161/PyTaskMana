@@ -18,7 +18,7 @@ PyTaskMaster est une application  Python en ligne de commande pour gérer une li
 
 ## Utilisation
 
-Il n'y a pas d'utilisation recommandée spécifique pour ce site. Il est destiné à être consulté par les fans de la série pour obtenir des informations et du contenu lié à "Saul Goodman".
+Suivez les instructions à l'écran pour gérer vos tâches.
 
 ## Installation
 
