@@ -1,6 +1,6 @@
 # PyTaskMana
 
-![PyTaskMana Screenshot](https://raw.githubusercontent.com/atlas161/PyTaskMana/Screenshot.png)
+![PyTaskMana Screenshot](https://raw.githubusercontent.com/atlas161/PyTaskMana/main/medias/Screenshot.png)
 
 ## Description
 
